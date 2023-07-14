@@ -5,13 +5,13 @@
 :heart: About Siabel :heart:
 
 
-- 🌱 I’m currently learning about how to developing...
+- 🌱 I’m currently learning how to develop...
 
 - Age <br> under 30 (It's Secret shh..)
 
 - MBTI <br> ISTP (It keeps changing...)
 
-- Hobby <br> Playing Game ()<br>/ Doing Sports(Especially Futsal)
+- Hobby <br> Playing Game (Almost every game~)<br>/ Doing Sports(Especially Futsal)
 
 
 ![Siabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siabel&show_icons=true&theme=dark)
