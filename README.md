@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning how to develop...
 
-- Age <br> under 30 (It's Secret shh..)
+- Age <br> 27
 
 - MBTI <br> ISTP (It keeps changing...)
 
-- Hobby <br> Playing Game (Almost every game~)<br>/ Doing Sports(Especially Futsal)
+- Hobby <br> Playing Game (almost all games)<br>/ Doing Sports(Especially Futsal and weight training)
 
 
 ![Siabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siabel&show_icons=true&theme=dark)
@@ -25,6 +25,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C_language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++_-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React_-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
