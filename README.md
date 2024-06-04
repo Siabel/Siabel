@@ -27,6 +27,8 @@
 ![C++](https://img.shields.io/badge/C++_-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React_-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js_-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+
 
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
@@ -40,6 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/54cc5fb016f94809a7cc348978ce48c4)
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <!-- ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white) -->
 <!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) -->
 
