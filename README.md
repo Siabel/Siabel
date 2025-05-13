@@ -1,54 +1,74 @@
-### Hi there nice to meet U :) 👋
+### Hi there, nice to meet U :) 👋
 
 :heart: About Siabel :heart:
 
-
-- 🌱 I’m currently learning how to develop...
-
-- Age <br> 27
-
-- MBTI <br> ISTP (It keeps changing...)
-
-- Hobby <br> Playing Game (almost all games)<br>/ Doing Sports(Especially Futsal and weight training)
-
+- 🌱 I’m currently growing as a full-stack developer through continuous projects and problem-solving.
+- 🧑 Age: 29
+- 🧠 MBTI: ISTP (frequently changing...)
+- ⚽ Hobby: Playing all kinds of games / Doing sports (especially futsal and weight training)
 
 ![Siabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siabel&show_icons=true&theme=dark)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jwj970802)](https://solved.ac/jwj970802/)
 
+---
 
-# 💪Skills
+# 💪 Skills
+
 ### Platforms & Languages
-<!-- ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) -->
-<!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C_language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++_-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React_-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js_-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
+### Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
-<!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white) -->
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) -->
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white) -->
-<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white) -->
-
-### Tools
+### Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/54cc5fb016f94809a7cc348978ce48c4)
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<!-- ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white) -->
-<!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 
- 
+### Game Dev & Extensions
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)
+
+---
+
+# 🔧 Notable Projects
+- **Monee (2025)**  
+  개인 자산 관리 웹앱, 달력 UI 커스텀, 수입/지출 데이터 시각화, 반응형 사이드 메뉴, 통계 페이지 구현 등  
+  `React`, `Next.js`, `Tailwind`, `MongoDB`, `Node.js`
+
+- **Algonion (2024)**  
+  알고리즘 문제 관리 서비스, 크롬 확장 개발 및 로그인 인증 처리, 경험치/레벨 시스템  
+  `React`, `TypeScript`, `Spring Boot`, `MySQL`, `VITE`, `NextUI`, `Chrome Extension`
+
+- **Socrates (2023)**  
+  네거티브 필터링 기반 영화 추천 서비스, 프론트 + 백엔드 전반 구현  
+  `Vue.js`, `Django`, `REST API`, `SQLite`
+
+---
+
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bels-log.tistory.com)](https://bels-log.tistory.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwj970802@gmail.com)](mailto:jwj970802@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ichimi97@naver.com)](mailto:ichimi97@naver.com)  
+
+[![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bels-log.tistory.com)](https://bels-log.tistory.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwj970802@gmail.com)](mailto:jwj970802@gmail.com)  
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ichimi97@naver.com)](mailto:ichimi97@naver.com)
 
 
 <!--
