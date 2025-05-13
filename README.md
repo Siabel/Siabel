@@ -1,7 +1,5 @@
 ### Hi there nice to meet U :) 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSiabel%2FSiabel.git&count_bg=%236FE4EF&title_bg=%23555555&icon=myspace.svg&icon_color=%23FFECEC&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
-
 :heart: About Siabel :heart:
 
 
