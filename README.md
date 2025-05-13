@@ -49,15 +49,18 @@
 # 🔧 Notable Projects
 - **Monee (2025)**  
   개인 자산 관리 웹앱, 달력 UI 커스텀, 수입/지출 데이터 시각화, 반응형 사이드 메뉴, 통계 페이지 구현 등  
-  `React`, `Next.js`, `Tailwind`, `MongoDB`, `Node.js`
+  `React`, `Next.js`, `Tailwind`, `MongoDB`, `Node.js`  
+  🔗 [GitHub Repository](https://github.com/nastorond/monee) | [Dev Note (Notion)](https://imaginary-editor-57f.notion.site/Monee-1ca842b2e8b18036b339e153f66ae425?pvs=4)
 
 - **Algonion (2024)**  
   알고리즘 문제 관리 서비스, 크롬 확장 개발 및 로그인 인증 처리, 경험치/레벨 시스템  
-  `React`, `TypeScript`, `Spring Boot`, `MySQL`, `VITE`, `NextUI`, `Chrome Extension`
+  `React`, `TypeScript`, `Spring Boot`, `MySQL`, `VITE`, `NextUI`, `Chrome Extension`  
+  🔗 [GitHub Repository](https://github.com/Siabel/Algonion) | [Dev Note (Notion)](https://imaginary-editor-57f.notion.site/Algonion-6aa20dea7a7644998417a75cef492793?pvs=4)
 
 - **Socrates (2023)**  
   네거티브 필터링 기반 영화 추천 서비스, 프론트 + 백엔드 전반 구현  
-  `Vue.js`, `Django`, `REST API`, `SQLite`
+  `Vue.js`, `Django`, `REST API`, `SQLite`  
+  🔗 [GitHub Repository](https://github.com/Siabel/Socrates) | [Dev Note (Notion)](https://imaginary-editor-57f.notion.site/Socrates-4a27e47028c44efabab916466a4fca59?pvs=4)
 
 ---
 
